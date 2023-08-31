@@ -8,7 +8,7 @@
 
 * Frameworks, librairies et moteurs : Angular, Symfony, TS, My SQL, NodeJS, Bootstrap, PhpMyAdmin et WordPress.
 
-#Stat
+# Stat
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franak007&count_private=true&show_icons=true&theme=synthwave" />
