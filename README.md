@@ -1,6 +1,6 @@
 # Franck Pertosa
 
-* Formation développeur web et web mobile. 
+ * Formation développeur web et web mobile. 
 
 * Pour valider ma formation je recherche un stage non rémunéré de 2 mois du 05/10/2023 au 04/12/2023. 
 
