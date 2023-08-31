@@ -7,9 +7,10 @@
 * Langages pratiqués : PHP, JS, HTML, CSS, SQL.
 
 * Frameworks, librairies et moteurs : Angular, Symfony, TS, My SQL, NodeJS, Bootstrap, PhpMyAdmin et WordPress.
+<br>
 
 # Stat
-
+<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Franak007&count_private=true&show_icons=true&theme=synthwave" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franak007&theme=synthwave&layout=compact&langs_count=6" />
