@@ -1,5 +1,4 @@
 # Franck Pertosa
-<i src="fa fa-address-book-o" aria-hidden="true"></i>
 
 * Formation développeur web et web mobile. 
 
