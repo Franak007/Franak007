@@ -2,7 +2,7 @@
 
  * Formation développeur web et web mobile. 
 
-* Actuellement en stage dans le service de développement Web chez Starterre, je suis disponible à partir du 14 décembre 2023 pour commencer un emploi de développeur junior ou même une POEI me permettant d'intégrer une entreprise de la "Tech". 
+* Actuellement en stage dans le service de développement Web chez Starterre (https://starterre.fr), je suis disponible à partir du 14 décembre 2023 pour commencer un emploi de développeur junior ou même une POEI me permettant d'intégrer une entreprise de la "Tech". 
 
 * Langages pratiqués : `PHP`, `JS`, `HTML`, `CSS`, `SQL`.
 
