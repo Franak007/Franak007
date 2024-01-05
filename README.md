@@ -1,6 +1,6 @@
 # Franck Pertosa
 
- * Formation développeur web et web mobile. 
+ * Développeur web et web mobile (titre obtenu le 19/12/2023). 
 
 * Actuellement en stage dans le service de développement Web chez Starterre ( https://starterre.fr ), je suis disponible à partir du 14 décembre 2023 pour commencer un emploi de développeur junior ou même une POEI me permettant d'intégrer une entreprise de la "Tech". 
 
